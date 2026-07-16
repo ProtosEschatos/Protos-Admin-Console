@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Protosweb Admin Console",
+  "description": "Custom developer admin and server monitoring dashboard for protosweb.eu (Protosweb Creative Studio), featuring Zoho IMAP, Brevo, Resend hub integration, security firewall levels, and live performance metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
